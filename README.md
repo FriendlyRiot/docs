@@ -11,7 +11,7 @@ The below document introduces you to our corp culture and goals. Please give it 
 
 
 
-## Culture and Etiquette (stolen wholesale from a friend's onboarding doc :) )
+## Culture and Etiquette
 In Discord, Teamspeak, or any other communication platform we may use within the game, it is never okay to participate in or perpetuate (yes, even ironically):
 * Racism
 * Sexism
