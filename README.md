@@ -18,7 +18,7 @@ In Discord, Teamspeak, or any other communication platform we may use within the
 * Homophobia
 * Transphobia
 
-Some common instances of these and other things that might be okay in other places in EVE, but are not okay on BIGAB or SOUND comms:
+Some common instances of these and other things that might be okay in other places in EVE, but are not okay in Friendly Riot comms:
 * Use of 'gay' and similar as a slur 
 * Use of 'rape' as a synonym for kill/destroy/etc
 * Use of 'retard' and similar
