@@ -33,6 +33,8 @@ Some common instances of these and other things that might be okay in other plac
 
 We live in a C2 class wormhole with both a Hisec static, and a C3 static. This hole serves our needs as a lowclass corporation supporting a variety of activities both PvE and PvP. Some corp members may do indy, some corp members may krab, some may do PvP. Often they'll do all three, and more. The common thread is that we're doing it together.
 
+PvP is encouraged and supported, and in-chain response for friendlies tackled or asking for help is expected. There are no mandatory PvP ops but group support is a must. To put it simply, no krabbing quietly to yourself while your friend is tackled, but you aren't expected to make PvP if you aren't looking for it.
+
 
 
 
