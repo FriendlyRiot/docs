@@ -32,7 +32,7 @@ Some common instances of these and other things that you might have seen other p
 
 ## Our hole and what we do in it!
 
-We live in a C2 class wormhole with both a Hisec static, and a C3 static. This hole serves our needs as a lowclass corporation supporting a variety of activities both PvE and PvP. Some corp members may do indy, some corp members may krab, some may do PvP. Often they'll do all three, and more. The common thread is that we're doing it together.
+We live in a C4 class wormhole with a C4 static and a C5 static. This hole serves our needs as a lowclass corporation supporting a variety of activities both PvE and PvP. Expectations are for PvP first, then PvE and silly little tasks, which are well supported.
 
 PvP is encouraged and supported, and in-chain response for friendlies tackled or asking for help is expected. There are no mandatory PvP ops but group support is a must. To put it simply, no krabbing quietly to yourself while your friend is tackled, but you aren't expected to make PvP if you aren't looking for it.
 
@@ -43,12 +43,5 @@ PvP is encouraged and supported, and in-chain response for friendlies tackled or
 
 * Covert Ops Cloak capable scanning ship. Make sure you have at least one in the hole at all times!
 
-
-## Things you should probably own
-
-* Small-gang nano ships
-* Interdictors/Interceptors
-* Krabbing ships of your preferred flavor 
-* A personal roller if you have a preferred fit
 
 
