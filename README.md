@@ -30,18 +30,11 @@ Some common instances of these and other things that you might have seen other p
 
 
 
-## Our hole and what we do in it!
+## Our space and what we do in it!
 
-We live in a C4 class wormhole with a C4 static and a C5 static. This hole serves our needs as a lowclass corporation supporting a variety of activities both PvE and PvP. Expectations are for PvP first, then PvE and silly little tasks, which are well supported.
+We live in the Solitude fightclub, within blops range of all of Syndicate and western Placid, and a short jaunt from Gal/Cal facwar. We have access to many opportunities for roaming, fleet activities and solo play.
 
-PvP is encouraged and supported, and in-chain response for friendlies tackled or asking for help is expected. There are no mandatory PvP ops but group support is a must. To put it simply, no krabbing quietly to yourself while your friend is tackled, but you aren't expected to make PvP if you aren't looking for it.
-
-
-
-
-## Things you must own
-
-* Covert Ops Cloak capable scanning ship. Make sure you have at least one in the hole at all times!
+PvP is encouraged and supported, and response for friendlies tackled or asking for help is expected. To put it simply, no krabbing quietly to yourself while your friend is tackled.
 
 
 
