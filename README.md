@@ -33,6 +33,6 @@ Additional to the above, we do not ever wish ill on others in real life. For exa
 
 ## Our space and what we do in it!
 
-We live in Scalding Pass, aka The Safari Zone, aka space Ohio. We take parts in all forms of PvP ranging from the nanogang scale to midscale fleet PvP. Kiting, brawling, and cyno-based gameplay are all on the table. We hold ourselves to personal betterment while also allowing ourselves the grace of learning, and simply having fun.
+We live in a 5-5 wormhole. We do all the things you may expect with a capital static. Many days we'll do hunting in chain with nano and downship doctrines, other days we'll rageroll and look for heavy armor opportunities.
 
 PvP response for friendlies tackled or asking for help is expected. To put it simply, no krabbing quietly to yourself while your friend is tackled.
